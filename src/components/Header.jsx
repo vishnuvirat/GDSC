@@ -2,7 +2,7 @@ import Logo from '../assets/logo.svg';
 
 const Header = () =>{
     return(
-        <navbar className="font-opensans">
+        <navbar className="">
             <div className='flex'>
                 <div className='p-4'>
                     <img src={Logo} alt="GDSC logo" className='w-96' />
