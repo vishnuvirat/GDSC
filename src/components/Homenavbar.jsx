@@ -9,6 +9,7 @@ const Homenavbar = () =>{
                 <img src={Logo} alt="GDSC logo" className='w-96 h-11' />
             </div>
             <div className="flex-1"></div>
+            <div className="flex-1"></div>
             <div className='p-4 pl-7 pr-7'>
                 <img src={Darkmode} alt="GDSC logo" className='w-10 h-9' />
             </div>
